@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sat", "sat\sat.csproj", "{CD0DA7A5-F38B-4CAD-9B26-5F6CBD8BD44E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SAT", "sat\SAT.csproj", "{CD0DA7A5-F38B-4CAD-9B26-5F6CBD8BD44E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sat.tests", "sat.tests\sat.tests.csproj", "{38B953BE-D416-4C05-B962-8268A95F1A00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SAT.Tests", "sat.tests\SAT.Tests.csproj", "{38B953BE-D416-4C05-B962-8268A95F1A00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
